@@ -1,0 +1,22 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "description": "Made by prashanth",
+  "main": "src/App.cjs",
+  "scripts": {
+  
+"start": "node src/App.cjs"  
+
+  },
+  "keywords": [],
+  "author": "Prashanth Addanki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
